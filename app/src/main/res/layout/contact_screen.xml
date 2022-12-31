@@ -1,0 +1,312 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		homescreen
+	 *	@date 		Friday 09th of December 2022 02:51:48 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			>
+
+
+			<RelativeLayout
+				android:id="@+id/page_contact_screen_ek1"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp">
+
+
+				<RelativeLayout
+					android:id="@+id/frame_85"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_centerHorizontal="true"
+					android:layout_marginTop="99dp"
+					android:background="@drawable/myrect">
+
+					<TextView
+						android:id="@+id/have_a_question_"
+						android:layout_width="221dp"
+						android:layout_height="41dp"
+						android:layout_centerHorizontal="true"
+						android:layout_gravity="center_horizontal|center"
+						android:layout_marginTop="33dp"
+						android:fontFamily="Inter"
+						android:gravity="center"
+						android:text="@string/have_a_question__string"
+						android:textColor="@color/individual___corporates_accounting_services_color"
+						android:textSize="14sp"
+						android:textStyle="bold" />
+
+					<TextView
+						android:id="@+id/we_can_help_find_the_answer_"
+						android:layout_width="222dp"
+						android:layout_height="31.5dp"
+						android:layout_below="@+id/have_a_question_"
+						android:layout_centerHorizontal="true"
+						android:layout_gravity="center_horizontal|center"
+						android:layout_marginTop="5dp"
+						android:fontFamily="Inter"
+						android:gravity="center"
+						android:text="@string/we_can_help_find_the_answer__string"
+						android:textColor="@color/we_can_help_find_the_answer__color"
+						android:textSize="13sp" />
+
+
+					<RelativeLayout
+						android:id="@+id/frame_84"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_below="@+id/we_can_help_find_the_answer_"
+						android:layout_centerHorizontal="true"
+						android:layout_marginTop="10dp">
+
+						<TextView
+							android:id="@+id/visit_the_help_centre"
+							android:layout_width="166dp"
+							android:layout_height="28.5dp"
+							android:layout_centerHorizontal="true"
+							android:layout_gravity="center_horizontal|center"
+							android:background="@drawable/ripple_effect"
+							android:fontFamily="Inter"
+							android:gravity="center"
+							android:text="@string/visit_the_help_centre_string"
+							android:textColor="@color/our_story_color"
+							android:textSize="15sp"
+							android:textStyle="bold" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout
+					android:id="@+id/frame_90"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_centerHorizontal="true"
+					android:layout_marginTop="351dp">
+
+
+					<RelativeLayout
+						android:id="@+id/frame_86"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp">
+
+
+						<RelativeLayout
+							android:id="@+id/material_symbols_calendar_today_outline"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="8.5dp">
+
+							<ImageView
+								android:id="@+id/vector_ek58"
+								android:layout_width="18.75dp"
+								android:layout_height="20.83dp"
+								android:layout_marginStart="3.13dp"
+								android:layout_marginTop="2.08dp"
+								android:contentDescription="vector_ek58"
+								android:src="@drawable/vector_ek58" />
+
+						</RelativeLayout>
+
+						<TextView
+							android:id="@+id/book_an_appointment"
+							android:layout_width="199.5dp"
+							android:layout_height="35.5dp"
+							android:layout_marginLeft="47dp"
+							android:layout_marginTop="8.5dp"
+							android:fontFamily="Inter"
+							android:text="@string/book_an_appointment_string"
+							android:textColor="@color/individual___corporates_accounting_services_color"
+							android:textSize="15sp"
+							android:textStyle="bold" />
+
+
+						<RelativeLayout
+							android:id="@+id/material_symbols_arrow_forward_ios"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="248dp"
+							android:layout_marginTop="8.5dp">
+
+							<ImageButton
+								android:id="@+id/vector_ek59"
+								android:layout_width="12.27dp"
+								android:layout_height="20.83dp"
+								android:layout_marginStart="6.51dp"
+								android:layout_marginTop="2.08dp"
+								android:background="@drawable/vector_ek59"
+								android:contentDescription="vector_ek59" />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+
+					<RelativeLayout
+						android:id="@+id/frame_87"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="73dp">
+
+
+						<RelativeLayout
+							android:id="@+id/mdi_arrow_top_right_bold_box_outline"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="8.5dp">
+
+							<ImageView
+								android:id="@+id/vector_ek60"
+								android:layout_width="18.75dp"
+								android:layout_height="18.75dp"
+								android:layout_marginStart="3.13dp"
+								android:layout_marginTop="3.13dp"
+								android:contentDescription="vector_ek60"
+								android:src="@drawable/vector_ek60" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout
+							android:id="@+id/material_symbols_computer_outline"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="8.5dp">
+
+							<ImageView
+								android:id="@+id/vector_ek61"
+								android:layout_width="22.92dp"
+								android:layout_height="18.75dp"
+								android:layout_marginStart="1.04dp"
+								android:layout_marginTop="3.13dp"
+								android:contentDescription="vector_ek61"
+								android:src="@drawable/vector_ek61" />
+
+						</RelativeLayout>
+
+						<TextView
+							android:id="@+id/visit_our_website"
+							android:layout_width="199.5dp"
+							android:layout_height="35.5dp"
+							android:layout_marginLeft="47dp"
+							android:layout_marginTop="8.5dp"
+							android:fontFamily="Inter"
+							android:text="@string/visit_our_website_string"
+							android:textColor="@color/individual___corporates_accounting_services_color"
+							android:textSize="15sp"
+							android:textStyle="bold" />
+
+
+						<RelativeLayout
+							android:id="@+id/mdi_arrow_top_right"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="248dp"
+							android:layout_marginTop="8.5dp">
+
+							<ImageView
+								android:id="@+id/vector_ek62"
+								android:layout_width="14.58dp"
+								android:layout_height="14.58dp"
+								android:layout_marginStart="5.21dp"
+								android:layout_marginTop="5.21dp"
+								android:contentDescription="vector_ek62"
+								android:src="@drawable/vector_ek62" />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+
+					<RelativeLayout
+						android:id="@+id/frame_88"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="146dp">
+
+
+						<RelativeLayout
+							android:id="@+id/material_symbols_call_sharp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="8.5dp">
+
+							<ImageView
+								android:id="@+id/vector_ek63"
+								android:layout_width="18.75dp"
+								android:layout_height="18.75dp"
+								android:layout_marginStart="3.13dp"
+								android:layout_marginTop="3.13dp"
+								android:contentDescription="vector_ek63"
+								android:src="@drawable/vector_ek63" />
+
+						</RelativeLayout>
+
+						<TextView
+							android:id="@+id/call_us"
+							android:layout_width="199.5dp"
+							android:layout_height="35.5dp"
+							android:layout_marginLeft="47dp"
+							android:layout_marginTop="8.5dp"
+							android:fontFamily="Inter"
+							android:text="@string/call_us_string"
+							android:textColor="@color/individual___corporates_accounting_services_color"
+							android:textSize="15sp"
+							android:textStyle="bold" />
+
+
+						<RelativeLayout
+							android:id="@+id/material_symbols_arrow_forward_ios_ek1"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="248dp"
+							android:layout_marginTop="8.5dp">
+
+							<ImageView
+								android:id="@+id/vector_ek64"
+								android:layout_width="12.27dp"
+								android:layout_height="20.83dp"
+								android:layout_marginStart="6.51dp"
+								android:layout_marginTop="2.08dp"
+								android:contentDescription="vector_ek64"
+								android:src="@drawable/vector_ek64" />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- homescreen strings -->
+
+    <string name="app_name">MercuryTax McCowan</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="what_we_do_string">WHAT WE DO?</string>
+    <string name="individual___corporates_accounting_services_string">Individual &amp; Corporates Accounting Services</string>
+    <string name="send_message_string">Send Message</string>
+    <string name="get_a_professional_help_for_your_busines_string">Get a Professional Help \nfor Your Business</string>
+    <string name="name_string">Name</string>
+    <string name="email_string">Email</string>
+    <string name="telephone_string">Telephone</string>
+    <string name="city_string">City</string>
+    <string name="message_string">Message</string>
+    <string name="contact_us_ek2_string">Contact Us</string>
+    <string name="inquiries_mercurytaxmccowan_ca_string">submitdocuments@mercurytaxmccowan.ca</string>
+    <string name="__416__265_3346_string">(416) 265-3346</string>
+    <string name="_comaddress">212-2900 Eglinton Avenue East, Scarborough, ON</string>
+    <string name="m_f__10am_4pm__s_s__closed_string">M-F: 10am-4pm, S-S: Closed</string>
+    <string name="_learn_morebtn_string">Learn More</string>
+    <string name="personal_taxation_service_string">Personal Taxation Service</string>
+    <string name="_learn_more_string"> Learn More </string>
+    <string name="corporate_taxation_service_string">Corporate Taxation Service</string>
+    <string name="corporation_registration_service_string">Corporation  Registration Service</string>
+    <string name="learn_more_ek1_string">Learn More</string>
+    <string name="a_personal_taxation_service_you_can_rely_on__string">A Personal Taxation Service You Can Rely On.</string>
+    <string name="the_2022_personal_tax_season_is_here__schedule_an_appointment_now__we_are_here_to_guide_you_each_step_of_the_way__string">The 2022 Personal Tax Season is here! Schedule an appointment now. We are here to guide you each step of the way.</string>
+    <string name="who_we_are__string">WHO  WE ARE?</string>
+    <string name="trust_worthy_string">Trust Worthy</string>
+    <string name="our_tax_services_guide_thousand_in_their_tax_filing_each_year__string">Our tax services guide thousand in their tax filing each year.</string>
+    <string name="experienced_string">Experienced</string>
+    <string name="we_have_thirty_years_of_experience_in_corporation_book_keeping_and_personal_tax_services__string">We have thirty years of experience in corporation book keeping and personal tax services.</string>
+    <string name="professional_ek1_string">Professional</string>
+    <string name="we_prioritize_getting_you_the_best_possible_outcome___accurate_and_on_time__string">We prioritize getting you the best possible outcome - accurate and on time.</string>
+    <string name="learn_more_ek2_string">Learn More</string>
+    <string name="welcome_to_mercurytax_mccowan_string">WELCOME TO  MERCURYTAX MCCOWAN</string>
+    <string name="vaishu_string">vaishu</string>
+    <string name="vaishu_ek1_string">vaishu</string>
+    <string name="vaishu_ek2_string">vaishu</string>
+    <string name="vaishu_ek3_string">vaishu</string>
+    <string name="vaishu_ek4_string">vaishu</string>
+    <string name="vaishu_ek5_string">vaishu</string>
+    <string name="our_team_string">Our Team</string>
+    <string name="_30__string">30+</string>
+    <string name="years_in_the_business_string">Years in the Business</string>
+    <string name="our_30__years_of_experience_will_help_you_achieve_what_you_set_out_to_do__string">Our 30+ years of experience will help you achieve what you set out to do.</string>
+    <string name="_5000__string">5000+</string>
+    <string name="happy_personal_tax_clients_string">Happy Personal Tax Clients</string>
+    <string name="serving_more_than_5000_tax_clients__we_can_handle_all_situations_that_you_may_need_to_face_with_your_personal_taxtin_needs_string">Serving more than 5000+tax clients, We can handle all situations that you may need to face with your personal taxtin needs</string>
+    <string name="_400__string">400+</string>
+    <string name="we_have_worked_with_all_different_types_of_businesses_and_we_are_ready_to_work_with_you_string">We have worked with all different types of businesses and we are ready to work with you</string>
+    <string name="bookkeeping_business_clients_string">Bookkeeping Business Clients</string>
+    <string name="every_client_is_of_equal_value__and_no_client_is_too_large_or_small__string">Every client is of equal value, and no client is too large or small.</string>
+    <string name="mercury_tax_and_accounting_is_a_firm_with_over_thirty_years_of_experience_in_corporation_book_keeping_and_personal_tax_services__located_on_the_corner_of_mccowan_and_eglinton__in_toronto__we_focus_first_and_foremost_on_building_up_entrepreneurs_and_small_businesses__taking_that_first_step_with_you_to_executing_your_ideas_into_a_viable__secure_and_profitable_business__our_personal_tax_services_guide_thousands_in_their_tax_filing_each_year__ensuring_you_get_the_best_possible_outcome_in_your_tax_return_with_our_decades_of_experience__string">Mercury Tax and Accounting is a firm with over thirty years of experience in corporation book keeping and personal tax services, located on the corner of McCowan and Eglinton, in Toronto.We focus first and foremost on building up entrepreneurs and small businesses, taking that first step with you to executing your ideas into a viable, secure and profitable business.Our personal tax services guide thousands in their tax filing each year, ensuring you get the best possible outcome in your tax return with our decades of experience.</string>
+    <string name="our_story_string">Our Story</string>
+    <string name="what_our_clients_say_string">What our clients say</string>
+    <string name="greate_job___great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax_great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax__string">Greate job!!Great work by team. They provided customer service, would defenitely recommended. Helped a lot in my personal tax.Great work by team. They provided customer service, would defenitely recommended. Helped a lot in my personal tax.</string>
+    <string name="greate_job___great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax_great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax__ek1_string">Greate job!!Great work by team. They provided customer service, would defenitely recommended. Helped a lot in my personal tax.Great work by team. They provided customer service, would defenitely recommended. Helped a lot in my personal tax.</string>
+    <string name="greate_job___great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax_great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax__ek2_string">Greate job!!Great work by team. They provided customer service, would defenitely recommended. Helped a lot in my personal tax.Great work by team. They provided customer service, would defenitely recommended. Helped a lot in my personal tax.</string>
+    <string name="frequently_asked_questions_string">Frequently Asked Questions</string>
+    <string name="question_want_to_add_here____________________________string">Question want to add here...........................</string>
+    <string name="question_want_to_add_here____________________________ek1_string">Question want to add here...........................</string>
+    <string name="question_want_to_add_here____________________________ek2_string">Question want to add here...........................</string>
+    <string name="question_want_to_add_here____________________________ek3_string">Question want to add here...........................</string>
+    <string name="question_want_to_add_here____________________________ek4_string">Question want to add here...........................</string>
+    <string name="contact_us_ek4_string">Contact Us</string>
+    <string name="inquiries_mercurytaxmccowan_ca_ek1_string">Inquiries@mercurytaxmccowan.ca</string>
+    <string name="__416__265_3346_ek1_string">(416) 265-3346</string>
+    <string name="_212_2900_eglinton_avenue_east__scarborough__on_ek1_string">212-2900 Eglinton Avenue East, Scarborough, ON</string>
+    <string name="m_f__10am_4pm__s_s__closed_ek1_string">M-F: 10am-4pm, S-S: Closed</string>
+    <string name="welcome_to_mercurytax_mccowan_ek1_string">Welcome to \n MercuryTax McCowan</string>
+    <string name="creg_intro">Take the first step with us — start your business and execute your ideas into a profitable business.</string>
+    <string name="ct_intro">Count on us to ensure your business fulfills all its legal CRA obligations, including Corporate Tax Filing, HST Filing, Payroll Remittance, WSIB and T4 Filing.</string>
+    <string name="pr_intro">The best possible financial return is within your reach, made possible by our thirty years of experience with the ins and outs of the personal tax system. No matter how simple or complex your tax situation is, we are ready to handle it!</string>
+    <string name="our_personal_tax_accountant_take_care_of_your_accounting_needs_and_ensure_____we_ensure_maximum_refunds_with_guaranteed_accuracy_and_confidentiality__we_prepare_and_file_your_tax_returns_electronically__ensuring_maximum_tax_benefits__kta_has_been_providing_these_services_for_over_a_decade__maintaining_a_good_reputation_and_professionalism_to_our_clients__we_provide_free_after_tax_return_services_to_our_valuable_clients_year_round__our_prices_are_very_reasonable__while_never_compromising_on_quality__string">Our personal tax accountant take care of your accounting needs and ensure....We ensure maximum refunds with guaranteed accuracy and confidentiality! We prepare and file your tax returns electronically, ensuring maximum tax benefits. KTA has been providing these services for over a decade, maintaining a good reputation and professionalism to our clients. We provide free after-tax return services to our valuable clients year-round. Our prices are very reasonable, while never compromising on quality.</string>
+    <string name="let_s_talk_string">LETS TALK</string>
+    <string name="get_in_touch__string">Get in Touch.</string>
+    <string name="contact_us_ek6_string">Contact Us</string>
+    <string name="inquiries_mercurytaxmccowan_ca_ek2_string">Inquiries@mercurytaxmccowan.ca</string>
+    <string name="__416__265_3346_ek2_string">(416) 265-3346</string>
+    <string name="_212_2900_eglinton_avenue_east__scarborough__on_ek2_string">212-2900 Eglinton Avenue East, Scarborough, ON</string>
+    <string name="m_f__10am_4pm__s_s__closed_ek2_string">M-F: 10am-4pm, S-S: Closed</string>
+    <string name="https___www_mercurytaxmccowan_ca_string">https://www.mercurytaxmccowan.ca</string>
+    <string name="schedule_an_appointment_string">SCHEDULE AN APPOINTMENT</string>
+    <string name="personal_taxation_service_ek1_string">Personal Tax\nServices</string>
+    <string name="corporate_tax_heading">Corporate Tax\nServices</string>
+    <string name="corporate_tax_reg_heading">Corporation Registration\nService</string>
+    <string name="our_professional_services_include__string">Our Professional Services\ninclude:</string>
+    <string name="electronically_tax_filing__e_file__instant_tax_refunds__personal_tax_returns_preparation__students_and_seniors_tax_services__tax_adjustment__t_1_adjustment__returns__tax_planning_advisory_services__multiyear_tax_returns___up_to_10_years___additional_tax_related_services_this_is_a_sample___we_want_add_like_this__string">Electronically tax filing, E-file.Instant tax refunds.Personal tax returns preparation.Students and seniors tax services.Tax adjustment (T-1 adjustment) returns.Tax planning advisory services.Multiyear tax returns ( up to 10 years).Additional tax related services THIS IS A SAMPLE ( WE WANT ADD LIKE THIS)</string>
+    <string name="welcome_to_mercurytax_mccowan_ek2_string">WELCOME TO  MERCURYTAX MCCOWAN</string>
+    <string name="count_on_us_to_ensure_your_business_fulfills_all_its_legal_cra_obligations__including_corporate_tax_filing__hst_filing__payroll_remittance__wsib_and_t4_filing___this_is_a_sample_content__string">Count on us to ensure your business fulfills all its legal CRA obligations, including Corporate Tax Filing, HST Filing, Payroll Remittance, WSIB and T4 Filing.[THIS IS A SAMPLE CONTENT]</string>
+    <string name="our_professional_services_include__ek1_string">
+		Our Professional Tax Services Include :</string>
+    <string name="electronically_tax_filing__e_file__instant_tax_refunds__personal_tax_returns_preparation__students_and_seniors_tax_services__tax_adjustment__t_1_adjustment__returns__tax_planning_advisory_services__multiyear_tax_returns___up_to_10_years___additional_tax_related_services_this_is_a_sample___we_want_add_like_this__ek1_string">Electronically tax filing, E-file.Instant tax refunds.Personal tax returns preparation.Students and seniors tax services.Tax adjustment (T-1 adjustment) returns.Tax planning advisory services.Multiyear tax returns ( up to 10 years).Additional tax related services THIS IS A SAMPLE ( WE WANT ADD LIKE THIS)</string>
+    <string name="let_s_talk_ek1_string">LETS TALK</string>
+    <string name="personal_tax_points">
+		* Income tax and benefits return (T1) for individuals , couple and self employment income\n
+		* Personal Tax Services for Students\n
+		* Personal tax services for individuals having investment income, rental income or foreign income\n
+		* Tax issues for residents, non-residents or dual residents of Canada\n
+		* Personal tax returns preparations\n
+		* Multiyear tax returns\n
+		* Electronically tax Filing (E-File) \n
+
+
+
+
+	</string>
+    <string name="get_in_touch__ek1_string">Get in Touch.</string>
+    <string name="schedule_an_appointment_ek1_string">SCHEDULE AN APPOINTMENT</string>
+    <string name="contact_us_ek8_string">Contact Us</string>
+    <string name="inquiries_mercurytaxmccowan_ca_ek3_string">Inquiries@mercurytaxmccowan.ca</string>
+    <string name="__416__265_3346_ek3_string">(416) 265-3346</string>
+    <string name="_212_2900_eglinton_avenue_east__scarborough__on_ek3_string">212-2900 Eglinton Avenue East, Scarborough, ON</string>
+    <string name="m_f__10am_4pm__s_s__closed_ek3_string">M-F: 10am-4pm, S-S: Closed</string>
+    <string name="https___www_mercurytaxmccowan_ca_ek1_string">https://www.mercurytaxmccowan.ca</string>
+    <string name="corporate_tax_services_ek1_string">Corporate Tax Services</string>
+    <string name="welcome_to_mercurytax_mccowan_ek3_string">WELCOME TO  MERCURYTAX MCCOWAN</string>
+    <string name="electronically_tax_filing__e_file__instant_tax_refunds__personal_tax_returns_preparation__students_and_seniors_tax_services__tax_adjustment__t_1_adjustment__returns__tax_planning_advisory_services__multiyear_tax_returns___up_to_10_years___additional_tax_related_services_this_is_a_sample___we_want_add_like_this__ek2_string">Electronically tax filing, E-file.Instant tax refunds.Personal tax returns preparation.Students and seniors tax services.Tax adjustment (T-1 adjustment) returns.Tax planning advisory services.Multiyear tax returns ( up to 10 years).Additional tax related services THIS IS A SAMPLE ( WE WANT ADD LIKE THIS)</string>
+    <string name="our_professional_services_string">OUR PROFESSIONAL SERVICES</string>
+    <string name="corporate_reg_intro">Take the first step with us — start your business and execute your ideas into a profitable business.</string>
+    <string name="let_s_talk_ek2_string">LETS TALK</string>
+    <string name="get_in_touch__ek2_string">Get in Touch.</string>
+    <string name="schedule_an_appointment_ek2_string">SCHEDULE AN APPOINTMENT</string>
+    <string name="contact_us_ek10_string">Contact Us</string>
+    <string name="inquiries_mercurytaxmccowan_ca_ek4_string">Inquiries@mercurytaxmccowan.ca</string>
+    <string name="__416__265_3346_ek4_string">(416) 265-3346</string>
+    <string name="_212_2900_eglinton_avenue_east__scarborough__on_ek4_string">212-2900 Eglinton Avenue East, Scarborough, ON</string>
+    <string name="m_f__10am_4pm__s_s__closed_ek4_string">M-F: 10am-4pm, S-S: Closed</string>
+    <string name="https___www_mercurytaxmccowan_ca_ek2_string">https://www.mercurytaxmccowan.ca</string>
+    <string name="corporate_registration_services_string">Corporate Registration Services</string>
+    <string name="welcome_to_mercurytax_mccowan_ek4_string">WELCOME TO  MERCURYTAX MCCOWAN</string>
+    <string name="have_a_question__string">Have a question?</string>
+    <string name="we_can_help_find_the_answer__string">We can help find the answer.</string>
+    <string name="visit_the_help_centre_string">Visit the Help Centre</string>
+    <string name="book_an_appointment_string">Book an appointment</string>
+    <string name="visit_our_website_string">Visit our website</string>
+    <string name="call_us_string">Call Us</string>
+    <string name="send_us_feedback_string">Send us feedback</string>
+    <string name="book_an_appointment_ek1_string">Book an appointment</string>
+    <string name="book_a_new_appointment_string">Book a new appointment</string>
+    <string name="in_person_string">In person</string>
+    <string name="over_the_phone_string">Over the Phone</string>
+    <string name="book_your_appointment__string">Book Your Appointment!</string>
+    <string name="full_name_string">Full Name</string>
+    <string name="contact_number_string">Contact Number</string>
+    <string name="email_address__optional__string">Email Address (Optional)</string>
+    <string name="date_string">Date</string>
+    <string name="enter_your_message_string">Enter Your Message</string>
+    <string name="submit_string">SUBMIT</string>
+    <string name="title_activity_content">content_Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

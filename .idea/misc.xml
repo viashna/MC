@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-nodpi/_bg__aboutus_ek2_shape.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable-nodpi/_bg__appointment_screen_ek2_shape.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable-nodpi/_bg__contact_screen_ek2_shape.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable-nodpi/_bg__corporate_registration_ek2_shape.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable-nodpi/_bg__corporatetax_screen_ek2_shape.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable-nodpi/_bg__homescreen_ek2_shape.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable-nodpi/_bg__personal_tax_screen_ek2_shape.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable-nodpi/_bg__sample_ek2_shape.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable-nodpi/_bg__sent_appointment_screen_ek2_shape.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable-nodpi/_bg__spashscreen_ek2_shape.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable-nodpi/ellipse_2_ek1_shape.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable-nodpi/rectangle_5_shape.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/bookappointmtnt_backgroundshape.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/bulletshape.xml" value="0.114" />
+        <entry key="app/src/main/res/drawable/button_state.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/button_text_color.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/edit_text_bg.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/gradiantcoloureffect.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/helpcenter_background.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/hmscreentxtview_bg_gradiant.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/learnmore_bg.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/menubar_backgroud.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/menuitems_backgroud.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/myrect.xml" value="0.15277099609375" />
+        <entry key="app/src/main/res/drawable/ripple_effect.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/schedule_appointmtnt_btn.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/scrollbar.xml" value="0.155" />
+        <entry key="app/src/main/res/drawable/teamscrollbackground.xml" value="0.155" />
+        <entry key="app/src/main/res/layout/aboutus.xml" value="0.3103850641773629" />
+        <entry key="app/src/main/res/layout/activity_accounting_and_other.xml" value="0.2673467000325521" />
+        <entry key="app/src/main/res/layout/activity_custom_list_view.xml" value="0.4572316487630208" />
+        <entry key="app/src/main/res/layout/activity_custom_list_view_for_corporate_registration.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_custom_listview_for_corporate_tax.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_menu_screen.xml" value="0.26979542114092625" />
+        <entry key="app/src/main/res/layout/appointment_screen.xml" value="0.2375" />
+        <entry key="app/src/main/res/layout/contact_screen.xml" value="0.2199261992619926" />
+        <entry key="app/src/main/res/layout/corporate_registration.xml" value="0.20013431833445267" />
+        <entry key="app/src/main/res/layout/corporatetax_screen.xml" value="0.24270833333333333" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.15520833333333334" />
+        <entry key="app/src/main/res/layout/homescreen.xml" value="0.2726021181695081" />
+        <entry key="app/src/main/res/layout/personal_tax_screen.xml" value="0.26203313107006276" />
+        <entry key="app/src/main/res/layout/sample.xml" value="0.17424531906763469" />
+        <entry key="app/src/main/res/layout/sent_appointment_screen.xml" value="0.22659637451171874" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="true" project-jdk-name="12.0.2" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,960 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		homescreen
+	 *	@date 		Friday 09th of December 2022 02:51:48 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<RelativeLayout android:id="@+id/content_container"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" >
+
+
+		<RelativeLayout
+			android:id="@+id/page_aboutus_ek1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginStart="0dp"
+			android:layout_marginTop="0dp"
+			>
+
+			<View
+				android:id="@+id/_bg__aboutus_ek2"
+				android:layout_width="460dp"
+				android:layout_height="1400dp"
+				android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:background="@drawable/_bg__aboutus_ek2_shape" />
+
+
+
+
+
+
+
+
+
+
+
+			<RelativeLayout
+				android:id="@+id/material_symbols_star_outline"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginStart="0dp"
+				android:layout_marginTop="500dp">
+
+				<ImageView
+					android:id="@+id/vector_ek17"
+					android:layout_width="20.83dp"
+					android:layout_height="19.79dp"
+					android:layout_marginStart="2.08dp"
+					android:layout_marginTop="3.13dp"
+					android:contentDescription="vector_ek17"
+					android:src="@drawable/vector_ek17" />
+
+			</RelativeLayout>
+
+			//our team
+
+			<TextView
+				android:id="@+id/our_team"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_below="@+id/threefreatures"
+				android:layout_marginStart="45dp"
+				android:layout_marginTop="50dp"
+				android:fontFamily="Inter"
+				android:text="@string/our_team_string"
+				android:textSize="18sp"
+				android:textStyle="bold" />
+
+			<HorizontalScrollView
+				android:id="@+id/ourtesmscroller"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_below="@+id/our_team"
+				android:layout_marginStart="17dp"
+				android:layout_marginTop="6dp"
+
+				android:fillViewport="true">
+
+				<LinearLayout
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/teamscrollbackground"
+					android:orientation="horizontal">
+
+					//ceo name and img
+
+					<LinearLayout
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_margin="15dp"
+						android:orientation="vertical">
+
+
+						<ImageView
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_gravity="center"
+							android:background="@drawable/frame_61" />
+
+						<TextView
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_gravity="center"
+							android:layout_marginTop="10dp"
+							android:text="Chief Executive Officer"
+							android:textAlignment="center"
+							android:textColor="@color/black" />
+
+						<TextView
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:text="Mr.Markandu Rajalingam" />
+					</LinearLayout>
+					// manager name and img
+
+					<LinearLayout
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_margin="15dp"
+						android:orientation="vertical">
+
+
+						<ImageView
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_gravity="center"
+							android:background="@drawable/frame_61" />
+
+						<TextView
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_gravity="center"
+							android:layout_marginTop="10dp"
+							android:text="Office Manager"
+							android:textAlignment="center"
+							android:textColor="@color/black" />
+
+						<TextView
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:text="Mr.Janakhan Rajalinkham" />
+					</LinearLayout>
+
+					//hr manameger name and image
+
+					<LinearLayout
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_margin="15dp"
+						android:orientation="vertical">
+
+
+						<ImageView
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_gravity="center"
+							android:background="@drawable/frame_62" />
+
+						<TextView
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_gravity="center"
+							android:layout_marginTop="10dp"
+							android:text="HR Manager"
+							android:textAlignment="center"
+							android:textColor="@color/black" />
+
+						<TextView
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:text="Mrs. Yalini Rajalinkham" />
+					</LinearLayout>
+
+					<LinearLayout
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_margin="15dp"
+						android:orientation="vertical">
+
+
+						<ImageView
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_gravity="center"
+							android:background="@drawable/frame_62" />
+
+						<TextView
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_gravity="center"
+							android:layout_marginTop="10dp"
+							android:text="Senior Staff"
+							android:textAlignment="center"
+							android:textColor="@color/black" />
+
+						<TextView
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:text="Mrs shangeetha" />
+					</LinearLayout>
+
+					<LinearLayout
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_margin="15dp"
+						android:orientation="vertical">
+
+
+						<ImageView
+							android:layout_width="64dp"
+							android:layout_height="62dp"
+							android:layout_gravity="center"
+							android:background="@drawable/vaishu" />
+
+						<TextView
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_gravity="center"
+							android:layout_marginTop="10dp"
+							android:text="receptionist"
+							android:textAlignment="center"
+							android:textColor="@color/black" />
+
+						<TextView
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:text="Miss Vellaipandiyan" />
+					</LinearLayout>
+
+				</LinearLayout>
+			</HorizontalScrollView>
+			// company three features
+
+			<HorizontalScrollView
+				android:id="@+id/threefreatures"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:layout_below="@+id/about_our_firm_frame"
+				android:layout_marginStart="17dp"
+				android:layout_marginTop="10dp"
+				android:fadeScrollbars="false"
+				android:fillViewport="true"
+				android:paddingBottom="10dp"
+				android:scrollbarSize="4dp"
+				android:scrollbarStyle="outsideOverlay"
+				android:scrollbarThumbVertical="@drawable/_bg__sample_ek2_shape"
+				android:scrollbars="horizontal">
+
+
+				<LinearLayout
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:orientation="horizontal">
+
+
+					<RelativeLayout
+						android:id="@+id/thirty_years_frame"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_margin="5dp"
+						android:layout_marginStart="9.63dp"
+						android:layout_marginTop="0dp"
+						android:background="@drawable/gradiantcoloureffect">
+
+						<TextView
+							android:id="@+id/_30_"
+							android:layout_width="86dp"
+							android:layout_height="61dp"
+							android:layout_gravity="center_horizontal|center"
+							android:layout_marginLeft="47dp"
+							android:layout_marginTop="33dp"
+							android:fontFamily="Inter"
+							android:gravity="center"
+							android:text="@string/_30__string"
+							android:textColor="@color/_bg__homescreen_ek2_color"
+							android:textSize="32sp"
+							android:textStyle="bold" />
+
+						<TextView
+							android:id="@+id/years_in_the_business"
+							android:layout_width="149dp"
+							android:layout_height="40dp"
+							android:layout_below="@+id/_30_"
+							android:layout_gravity="center_horizontal|center"
+							android:layout_marginLeft="14dp"
+							android:fontFamily="Inter"
+							android:gravity="center"
+							android:text="@string/years_in_the_business_string"
+							android:textColor="@color/_bg__homescreen_ek2_color"
+							android:textSize="14sp"
+							android:textStyle="bold" />
+
+						<TextView
+							android:id="@+id/our_30__years_of_experience_will_help_you_achieve_what_you_set_out_to_do_"
+							android:layout_width="165dp"
+							android:layout_height="62.5dp"
+							android:layout_below="@+id/years_in_the_business"
+							android:layout_gravity="center_horizontal|center"
+							android:layout_marginLeft="5dp"
+							android:layout_marginRight="5dp"
+							android:fontFamily="Inter"
+							android:gravity="center"
+							android:text="@string/our_30__years_of_experience_will_help_you_achieve_what_you_set_out_to_do__string"
+							android:textColor="@color/_bg__homescreen_ek2_color"
+							android:textSize="11sp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout
+						android:id="@+id/fivethousand_clients_frame"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_margin="5dp"
+						android:layout_marginStart="181.13dp"
+						android:layout_marginTop="0dp"
+						android:background="@drawable/gradiantcoloureffect">
+
+						<TextView
+							android:id="@+id/_5000_"
+							android:layout_width="130dp"
+							android:layout_height="61dp"
+							android:layout_gravity="center_horizontal|center"
+							android:layout_marginLeft="24.47dp"
+							android:layout_marginTop="33dp"
+							android:fontFamily="Inter"
+							android:gravity="center"
+							android:text="@string/_5000__string"
+							android:textColor="@color/_bg__homescreen_ek2_color"
+							android:textSize="32sp"
+							android:textStyle="bold" />
+
+						<TextView
+							android:id="@+id/happy_personal_tax_clients"
+							android:layout_width="149dp"
+							android:layout_height="42dp"
+							android:layout_below="@+id/_5000_"
+							android:layout_gravity="center_horizontal|center"
+							android:layout_marginLeft="13.47dp"
+							android:fontFamily="Inter"
+							android:gravity="center"
+							android:text="@string/happy_personal_tax_clients_string"
+							android:textColor="@color/_bg__homescreen_ek2_color"
+							android:textSize="14sp"
+							android:textStyle="bold" />
+
+						<TextView
+							android:id="@+id/serving_more_than_5000_tax_clients__we_can_handle_all_situations_that_you_may_need_to_face_with_your_personal_taxtin_needs"
+							android:layout_width="165dp"
+							android:layout_height="62.5dp"
+							android:layout_below="@+id/happy_personal_tax_clients"
+							android:layout_gravity="center_horizontal|center"
+							android:layout_marginLeft="5dp"
+							android:layout_marginRight="5dp"
+							android:fontFamily="Inter"
+							android:gravity="center"
+							android:text="@string/serving_more_than_5000_tax_clients__we_can_handle_all_situations_that_you_may_need_to_face_with_your_personal_taxtin_needs_string"
+							android:textColor="@color/_bg__homescreen_ek2_color"
+							android:textSize="11sp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout
+						android:id="@+id/fourhundred_bookkeeping_frame"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_margin="5dp"
+						android:layout_marginStart="353dp"
+						android:layout_marginTop="0dp"
+						android:background="@drawable/gradiantcoloureffect">
+
+						<TextView
+							android:id="@+id/_400_"
+							android:layout_width="109dp"
+							android:layout_height="61dp"
+							android:layout_gravity="center_horizontal|center"
+							android:layout_marginLeft="35dp"
+							android:layout_marginTop="33dp"
+							android:fontFamily="Inter"
+							android:gravity="center"
+							android:text="@string/_400__string"
+							android:textColor="@color/_bg__homescreen_ek2_color"
+							android:textSize="32sp"
+							android:textStyle="bold" />
+
+						<TextView
+							android:id="@+id/we_have_worked_with_all_different_types_of_businesses_and_we_are_ready_to_work_with_you"
+							android:layout_width="165dp"
+							android:layout_height="62.5dp"
+							android:layout_below="@+id/bookkeeping_business_clients"
+							android:layout_gravity="center_horizontal|center"
+							android:layout_marginLeft="4dp"
+							android:layout_marginRight="5dp"
+							android:fontFamily="Inter"
+							android:gravity="center"
+							android:text="@string/we_have_worked_with_all_different_types_of_businesses_and_we_are_ready_to_work_with_you_string"
+							android:textColor="@color/_bg__homescreen_ek2_color"
+							android:textSize="11sp" />
+
+						<TextView
+							android:id="@+id/bookkeeping_business_clients"
+							android:layout_width="149dp"
+							android:layout_height="42dp"
+							android:layout_below="@+id/_400_"
+							android:layout_gravity="center_horizontal|center"
+							android:layout_marginLeft="13dp"
+							android:fontFamily="Inter"
+							android:gravity="center"
+							android:text="@string/bookkeeping_business_clients_string"
+							android:textColor="@color/_bg__homescreen_ek2_color"
+							android:textSize="14sp"
+							android:textStyle="bold" />
+
+					</RelativeLayout>
+					-->
+
+				</LinearLayout>
+			</HorizontalScrollView>
+
+
+			//our story
+
+			<RelativeLayout
+				android:id="@+id/about_our_firm_frame"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_below="@+id/nav_bar_ek1"
+				android:layout_centerHorizontal="true"
+				android:layout_marginTop="1dp"
+				android:background="@drawable/about_firm_background">
+
+
+				<TextView
+					android:id="@+id/every_client_is_of_equal_value__and_no_client_is_too_large_or_small_"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_below="@+id/frame_49"
+					android:layout_centerHorizontal="true"
+					android:layout_marginTop="2dp"
+					android:fontFamily="Inter"
+					android:gravity="center"
+					android:text="@string/every_client_is_of_equal_value__and_no_client_is_too_large_or_small__string"
+					android:textColor="@color/individual___corporates_accounting_services_color"
+					android:textSize="18sp"
+					android:textStyle="bold" />
+
+
+				<RelativeLayout
+					android:id="@+id/frame_48"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_below="@+id/every_client_is_of_equal_value__and_no_client_is_too_large_or_small_"
+					android:layout_centerHorizontal="true"
+					android:layout_marginStart="5dp"
+					android:layout_marginTop="4dp"
+					android:layout_marginEnd="5dp"
+					android:layout_marginBottom="5dp">
+
+					<TextView
+						android:id="@+id/mercury_tax_and_accounting_is_a_firm_with_over_thirty_years_of_experience_in_corporation_book_keeping_and_personal_tax_services__located_on_the_corner_of_mccowan_and_eglinton__in_toronto__we_focus_first_and_foremost_on_building_up_entrepreneurs_and_small_businesses__taking_that_first_step_with_you_to_executing_your_ideas_into_a_viable__secure_and_profitable_business__our_personal_tax_services_guide_thousands_in_their_tax_filing_each_year__ensuring_you_get_the_best_possible_outcome_in_your_tax_return_with_our_decades_of_experience_"
+						android:layout_width="311dp"
+						android:layout_height="wrap_content"
+						android:layout_centerHorizontal="true"
+						android:fontFamily="@new"
+						android:gravity="center"
+						android:lineSpacingExtra="10sp"
+						android:text="@string/mercury_tax_and_accounting_is_a_firm_with_over_thirty_years_of_experience_in_corporation_book_keeping_and_personal_tax_services__located_on_the_corner_of_mccowan_and_eglinton__in_toronto__we_focus_first_and_foremost_on_building_up_entrepreneurs_and_small_businesses__taking_that_first_step_with_you_to_executing_your_ideas_into_a_viable__secure_and_profitable_business__our_personal_tax_services_guide_thousands_in_their_tax_filing_each_year__ensuring_you_get_the_best_possible_outcome_in_your_tax_return_with_our_decades_of_experience__string"
+						android:textColor="@color/individual___corporates_accounting_services_color"
+						android:textSize="16sp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout
+					android:id="@+id/frame_49"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_centerHorizontal="true"
+					android:layout_marginStart="123dp"
+					android:layout_marginTop="0dp">
+
+					<TextView
+						android:id="@+id/our_story"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_centerHorizontal="true"
+						android:layout_marginLeft="7dp"
+						android:layout_marginTop="10dp"
+						android:fontFamily="Inter"
+						android:gravity="center"
+						android:text="@string/our_story_string"
+						android:textColor="@color/our_story_color"
+						android:textSize="20sp"
+						android:textStyle="bold" />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+			// our clients reviews
+
+			<RelativeLayout
+				android:id="@+id/clientscmtbackgroundframe"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginStart="0dp"
+				android:layout_marginTop="20dp"
+				android:layout_below="@+id/ourtesmscroller">
+
+				<!--					android:fontFamily="Inter"--><![CDATA[
+				android:gravity="center"
+				android:text="what our client say"
+				android:textColor="@color/individual___corporates_accounting_services_color"
+				android:textSize="16sp"
+				android:textStyle="bold" />
+
+				]]>
+
+				<TextView
+					android:id="@+id/what_our_clients_say"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_alignParentTop="true"
+					android:layout_marginLeft="50dp"
+					android:layout_marginTop="5dp"
+					android:fontFamily="Inter"
+					android:text="What our Clients say"
+					android:textSize="18sp"
+					android:textStyle="bold" />
+
+				<RelativeLayout
+					android:id="@+id/clientsreviewscroll"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:layout_below="@+id/what_our_clients_say"
+					android:layout_marginTop="6dp"
+					android:fillViewport="true">
+
+					<LinearLayout
+						android:id="@+id/clients_cmnts_frame"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_gravity="center"
+						android:layout_marginTop="3dp"
+						android:orientation="vertical"
+						android:layout_marginBottom="10dp">
+
+
+						<RelativeLayout
+							android:id="@+id/review3"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="18dp"
+							android:layout_marginTop="9dp">
+
+							<TextView
+								android:id="@+id/greate_job___great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax_great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax_"
+								android:layout_width="270.5dp"
+								android:layout_height="wrap_content"
+								android:layout_below="@+id/ellipse_3"
+								android:layout_marginLeft="25dp"
+								android:layout_marginTop="10dp"
+								android:fontFamily="Inter"
+								android:text="@string/greate_job___great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax_great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax__string"
+								android:textColor="@color/greate_job___great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax_great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax__color"
+								android:textSize="11sp" />
+
+							<ImageView
+								android:id="@+id/ellipse_3"
+								android:layout_width="53dp"
+								android:layout_height="52dp"
+								android:layout_marginStart="35dp"
+								android:layout_marginTop="9dp"
+								android:contentDescription="ellipse_3"
+								android:src="@drawable/ellipse_3" />
+
+						</RelativeLayout>
+
+						<RelativeLayout
+							android:id="@+id/review2"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="18dp"
+							android:layout_marginTop="9dp">
+
+							<TextView
+								android:id="@+id/greate_job___great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax_great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax__ek1"
+								android:layout_width="270.5dp"
+								android:layout_height="wrap_content"
+								android:layout_below="@+id/ellipse_3_ek1"
+								android:layout_marginLeft="25dp"
+								android:layout_marginTop="10dp"
+								android:fontFamily="Inter"
+								android:text="@string/greate_job___great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax_great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax__ek1_string"
+								android:textColor="@color/greate_job___great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax_great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax__color"
+								android:textSize="11sp" />
+
+							<ImageView
+								android:id="@+id/ellipse_3_ek1"
+								android:layout_width="53dp"
+								android:layout_height="52dp"
+								android:layout_marginStart="35dp"
+								android:layout_marginTop="9dp"
+								android:contentDescription="ellipse_3_ek1"
+								android:src="@drawable/vaishu" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout
+							android:id="@+id/review1"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="18dp"
+							android:layout_marginTop="9dp">
+
+							<TextView
+								android:id="@+id/greate_job___great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax_great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax__ek2"
+								android:layout_width="270.5dp"
+								android:layout_height="wrap_content"
+								android:layout_below="@+id/ellipse_3_ek2"
+								android:layout_marginLeft="25dp"
+								android:layout_marginTop="10dp"
+								android:fontFamily="Inter"
+								android:text="@string/greate_job___great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax_great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax__ek2_string"
+								android:textColor="@color/greate_job___great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax_great_work_by_team__they_provided_customer_service__would_defenitely_recommended__helped_a_lot_in_my_personal_tax__color"
+								android:textSize="11sp" />
+
+							<ImageView
+								android:id="@+id/ellipse_3_ek2"
+								android:layout_width="53dp"
+								android:layout_height="52dp"
+								android:layout_marginStart="35dp"
+								android:layout_marginTop="9dp"
+								android:contentDescription="ellipse_3_ek2"
+								android:src="@drawable/vaishu" />
+
+						</RelativeLayout>
+
+					</LinearLayout>
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+			<RelativeLayout
+				android:id="@+id/frequentlquestn_frame"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginStart="19dp"
+				android:layout_marginTop="1382dp"/>
+
+
+			<!--			<RelativeLayout-->
+<!--				android:id="@+id/frame_72_ek1"-->
+<!--				android:layout_width="wrap_content"-->
+<!--				android:layout_height="wrap_content"-->
+<!--				android:layout_marginStart="0dp"-->
+<!--				android:layout_marginTop="1765dp">-->
+
+
+<!--				<RelativeLayout-->
+<!--					android:id="@+id/contact_us_ek3"-->
+<!--					android:layout_width="wrap_content"-->
+<!--					android:layout_height="wrap_content"-->
+<!--					android:layout_marginStart="104.5dp"-->
+<!--					android:layout_marginTop="0dp">-->
+
+<!--					<TextView-->
+<!--						android:id="@+id/contact_us_ek4"-->
+<!--						android:layout_width="160dp"-->
+<!--						android:layout_height="46dp"-->
+<!--						android:layout_marginLeft="10dp"-->
+<!--						android:layout_marginTop="10dp"-->
+<!--						android:fontFamily="Inter"-->
+<!--						android:text="@string/contact_us_ek4_string"-->
+<!--						android:textColor="@color/_bg__homescreen_ek2_color"-->
+<!--						android:textSize="24sp"-->
+<!--						android:textStyle="bold" />-->
+
+<!--				</RelativeLayout>-->
+
+
+<!--				<RelativeLayout-->
+<!--					android:id="@+id/emailbox_ek1"-->
+<!--					android:layout_width="wrap_content"-->
+<!--					android:layout_height="wrap_content"-->
+<!--					android:layout_marginStart="38.5dp"-->
+<!--					android:layout_marginTop="64dp">-->
+
+
+<!--					<RelativeLayout-->
+<!--						android:id="@+id/clarity_email_solid_ek1"-->
+<!--						android:layout_width="wrap_content"-->
+<!--						android:layout_height="wrap_content"-->
+<!--						android:layout_marginStart="0dp"-->
+<!--						android:layout_marginTop="0dp">-->
+
+
+<!--						<RelativeLayout-->
+<!--							android:id="@+id/group_ek2"-->
+<!--							android:layout_width="wrap_content"-->
+<!--							android:layout_height="wrap_content"-->
+<!--							android:layout_marginStart="2.5dp"-->
+<!--							android:layout_marginTop="2.5dp">-->
+
+<!--							<ImageView-->
+<!--								android:id="@+id/vector_ek23"-->
+<!--								android:layout_width="16.08dp"-->
+<!--								android:layout_height="8.04dp"-->
+<!--								android:layout_marginStart="2dp"-->
+<!--								android:layout_marginTop="3dp"-->
+<!--								android:contentDescription="vector_ek23"-->
+<!--								android:src="@drawable/vector_ek23" />-->
+
+<!--							<ImageView-->
+<!--								android:id="@+id/vector_ek24"-->
+<!--								android:layout_width="17.78dp"-->
+<!--								android:layout_height="12.56dp"-->
+<!--								android:layout_marginStart="1dp"-->
+<!--								android:layout_marginTop="4dp"-->
+<!--								android:contentDescription="vector_ek24"-->
+<!--								android:src="@drawable/vector_ek24" />-->
+
+<!--							<ImageView-->
+<!--								android:id="@+id/vector_ek25"-->
+<!--								android:layout_width="20dp"-->
+<!--								android:layout_height="20dp"-->
+<!--								android:layout_marginStart="0dp"-->
+<!--								android:layout_marginTop="0dp"-->
+<!--								android:contentDescription="vector_ek25"-->
+<!--								android:src="@drawable/vector_ek25" />-->
+
+<!--						</RelativeLayout>-->
+
+<!--					</RelativeLayout>-->
+
+<!--					<TextView-->
+<!--						android:id="@+id/inquiries_mercurytaxmccowan_ca_ek1"-->
+<!--						android:layout_width="271dp"-->
+<!--						android:layout_height="34dp"-->
+<!--						android:layout_marginLeft="31dp"-->
+<!--						android:layout_marginTop="0dp"-->
+<!--						android:fontFamily="Inter"-->
+<!--						android:text="@string/inquiries_mercurytaxmccowan_ca_ek1_string"-->
+<!--						android:textColor="@color/_bg__homescreen_ek2_color"-->
+<!--						android:textSize="14sp" />-->
+
+<!--				</RelativeLayout>-->
+
+
+<!--				<RelativeLayout-->
+<!--					android:id="@+id/phonebox_ek1"-->
+<!--					android:layout_width="wrap_content"-->
+<!--					android:layout_height="wrap_content"-->
+<!--					android:layout_marginStart="38.5dp"-->
+<!--					android:layout_marginTop="108dp">-->
+
+
+<!--					<RelativeLayout-->
+<!--						android:id="@+id/akar_icons_phone_ek1"-->
+<!--						android:layout_width="wrap_content"-->
+<!--						android:layout_height="wrap_content"-->
+<!--						android:layout_marginStart="0dp"-->
+<!--						android:layout_marginTop="0dp">-->
+
+<!--						<ImageView-->
+<!--							android:id="@+id/vector_ek26"-->
+<!--							android:layout_width="20dp"-->
+<!--							android:layout_height="20dp"-->
+<!--							android:layout_marginStart="2.5dp"-->
+<!--							android:layout_marginTop="2.5dp"-->
+<!--							android:contentDescription="vector_ek26"-->
+<!--							android:src="@drawable/vector_ek26" />-->
+
+<!--					</RelativeLayout>-->
+
+<!--					<TextView-->
+<!--						android:id="@+id/__416__265_3346_ek1"-->
+<!--						android:layout_width="271dp"-->
+<!--						android:layout_height="34dp"-->
+<!--						android:layout_marginLeft="31dp"-->
+<!--						android:layout_marginTop="0dp"-->
+<!--						android:fontFamily="Inter"-->
+<!--						android:text="@string/__416__265_3346_ek1_string"-->
+<!--						android:textColor="@color/_bg__homescreen_ek2_color"-->
+<!--						android:textSize="14sp" />-->
+
+<!--				</RelativeLayout>-->
+
+
+<!--				<RelativeLayout-->
+<!--					android:id="@+id/addresbox_ek1"-->
+<!--					android:layout_width="wrap_content"-->
+<!--					android:layout_height="wrap_content"-->
+<!--					android:layout_marginStart="38.5dp"-->
+<!--					android:layout_marginTop="152dp">-->
+
+
+<!--					<RelativeLayout-->
+<!--						android:id="@+id/akar_icons_location_ek1"-->
+<!--						android:layout_width="wrap_content"-->
+<!--						android:layout_height="wrap_content"-->
+<!--						android:layout_marginStart="0dp"-->
+<!--						android:layout_marginTop="0dp">-->
+
+
+<!--						<RelativeLayout-->
+<!--							android:id="@+id/group_ek3"-->
+<!--							android:layout_width="wrap_content"-->
+<!--							android:layout_height="wrap_content"-->
+<!--							android:layout_marginStart="4.17dp"-->
+<!--							android:layout_marginTop="2.08dp">-->
+
+<!--							<ImageView-->
+<!--								android:id="@+id/vector_ek27"-->
+<!--								android:layout_width="6.25dp"-->
+<!--								android:layout_height="6.25dp"-->
+<!--								android:layout_marginStart="5dp"-->
+<!--								android:layout_marginTop="5dp"-->
+<!--								android:contentDescription="vector_ek27"-->
+<!--								android:src="@drawable/vector_ek27" />-->
+
+<!--							<ImageView-->
+<!--								android:id="@+id/vector_ek28"-->
+<!--								android:layout_width="16.67dp"-->
+<!--								android:layout_height="20.83dp"-->
+<!--								android:layout_marginStart="0dp"-->
+<!--								android:layout_marginTop="0dp"-->
+<!--								android:contentDescription="vector_ek28"-->
+<!--								android:src="@drawable/vector_ek28" />-->
+
+<!--						</RelativeLayout>-->
+
+<!--					</RelativeLayout>-->
+
+<!--					<TextView-->
+<!--						android:id="@+id/_212_2900_eglinton_avenue_east__scarborough__on_ek1"-->
+<!--						android:layout_width="271dp"-->
+<!--						android:layout_height="48dp"-->
+<!--						android:layout_marginLeft="31dp"-->
+<!--						android:layout_marginTop="0dp"-->
+<!--						android:fontFamily="Inter"-->
+<!--						android:text="@string/_212_2900_eglinton_avenue_east__scarborough__on_ek1_string"-->
+<!--						android:textColor="@color/_bg__homescreen_ek2_color"-->
+<!--						android:textSize="14sp"-->
+<!--						android:textStyle="bold" />-->
+
+<!--				</RelativeLayout>-->
+
+
+<!--				<RelativeLayout-->
+<!--					android:id="@+id/openhrs_ek1"-->
+<!--					android:layout_width="wrap_content"-->
+<!--					android:layout_height="wrap_content"-->
+<!--					android:layout_marginStart="38.5dp"-->
+<!--					android:layout_marginTop="209dp">-->
+
+
+<!--					<RelativeLayout-->
+<!--						android:id="@+id/ant_design_clock_circle_filled_ek1"-->
+<!--						android:layout_width="wrap_content"-->
+<!--						android:layout_height="wrap_content"-->
+<!--						android:layout_marginStart="0dp"-->
+<!--						android:layout_marginTop="0dp">-->
+
+<!--						<ImageView-->
+<!--							android:id="@+id/vector_ek29"-->
+<!--							android:layout_width="21.88dp"-->
+<!--							android:layout_height="21.88dp"-->
+<!--							android:layout_marginStart="1.56dp"-->
+<!--							android:layout_marginTop="1.56dp"-->
+<!--							android:contentDescription="vector_ek29"-->
+<!--							android:src="@drawable/vector_ek29" />-->
+
+<!--					</RelativeLayout>-->
+
+<!--					<TextView-->
+<!--						android:id="@+id/m_f__10am_4pm__s_s__closed_ek1"-->
+<!--						android:layout_width="271dp"-->
+<!--						android:layout_height="48dp"-->
+<!--						android:layout_marginLeft="31dp"-->
+<!--						android:layout_marginTop="0dp"-->
+<!--						android:fontFamily="Inter"-->
+<!--						android:text="@string/m_f__10am_4pm__s_s__closed_ek1_string"-->
+<!--						android:textColor="@color/_bg__homescreen_ek2_color"-->
+<!--						android:textSize="14sp"-->
+<!--						android:textStyle="bold" />-->
+
+<!--				</RelativeLayout>-->
+
+<!--			</RelativeLayout>-->
+
+
+			<RelativeLayout
+				android:id="@+id/nav_bar_ek1"
+				android:layout_width="match_parent"
+				android:layout_height="100dp"
+				android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:background="@color/our_story_color"
+				android:keepScreenOn="true"
+				android:orientation="horizontal">
+
+
+				<RelativeLayout
+					android:id="@+id/grommet_icons_menu_ek1"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_centerVertical="true"
+					android:layout_marginStart="18dp">
+
+					<ImageView
+						android:id="@+id/vector_ek30"
+						android:layout_width="25dp"
+						android:layout_height="25dp"
+						android:layout_marginStart="2.83dp"
+						android:contentDescription="vector_ek30"
+						android:src="@drawable/menu" />
+
+				</RelativeLayout>
+
+
+				<TextView
+					android:id="@+id/welcome_to_mercurytax_mccowan_ek1"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_centerInParent="true"
+					android:layout_marginBottom="5dp"
+					android:fontFamily="Inter"
+					android:gravity="center"
+					android:text="@string/welcome_to_mercurytax_mccowan_ek1_string"
+					android:textColor="@color/welcome_to_mercurytax_mccowan_color"
+					android:textSize="18sp"
+					android:textStyle="bold" />
+
+
+			</RelativeLayout>
+
+		</RelativeLayout>
+
+
+
+
+	</RelativeLayout>
+
+</ScrollView>
